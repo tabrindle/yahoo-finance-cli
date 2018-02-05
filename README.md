@@ -8,7 +8,7 @@ See [Yahoo! APIs Terms of Use](https://developer.yahoo.com/terms/)
 
 `npm install -g https://github.com/tabrindle/yahoo-finance-cli`
 OR
-`yarn install -g yahoo-finance-cli `
+`yarn global add yahoo-finance-cli`
 
 ## Usage
 
